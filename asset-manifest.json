@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/portifolio-pessoal/static/css/main.4cfcf3b3.css",
-    "main.js": "/portifolio-pessoal/static/js/main.a3aad6e3.js",
+    "main.css": "/portifolio-pessoal/static/css/main.6379c0f0.css",
+    "main.js": "/portifolio-pessoal/static/js/main.b1e6798c.js",
     "static/js/787.fb771931.chunk.js": "/portifolio-pessoal/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/portifolio-pessoal/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portifolio-pessoal/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/ViniciusSaliamisCV.pdf": "/portifolio-pessoal/static/media/ViniciusSaliamisCV.c7a7f461e3381d0b8209.pdf",
     "static/media/project-img1.png": "/portifolio-pessoal/static/media/project-img1.7afb3546ef064c8e655c.png",
     "static/media/project-img3.png": "/portifolio-pessoal/static/media/project-img3.5e8a493dd64113b598bb.png",
     "static/media/banner-bg.png": "/portifolio-pessoal/static/media/banner-bg.cc1273af450504afe755.png",
@@ -34,12 +33,12 @@
     "static/media/arrow2.svg": "/portifolio-pessoal/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/portifolio-pessoal/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/meter5.svg": "/portifolio-pessoal/static/media/meter5.a9ef3938d4960ac238e9c64d78783931.svg",
-    "main.4cfcf3b3.css.map": "/portifolio-pessoal/static/css/main.4cfcf3b3.css.map",
-    "main.a3aad6e3.js.map": "/portifolio-pessoal/static/js/main.a3aad6e3.js.map",
+    "main.6379c0f0.css.map": "/portifolio-pessoal/static/css/main.6379c0f0.css.map",
+    "main.b1e6798c.js.map": "/portifolio-pessoal/static/js/main.b1e6798c.js.map",
     "787.fb771931.chunk.js.map": "/portifolio-pessoal/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cfcf3b3.css",
-    "static/js/main.a3aad6e3.js"
+    "static/css/main.6379c0f0.css",
+    "static/js/main.b1e6798c.js"
   ]
 }
