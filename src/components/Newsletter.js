@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import { Col, Row, Alert } from "react-bootstrap";
-import CV from "../ViniciusSaliamisCV.pdf";
 
 export const Newsletter = ({ status, message, onValidated }) => {
   const [email, setEmail] = useState('');
@@ -27,10 +26,8 @@ export const Newsletter = ({ status, message, onValidated }) => {
       <div className="newsletter-bx wow slideInUp">
         
           <div className="new-email-bx">
-          <h3>Se interessou pelo meu perfil? Tem uma oportunidade na sua empresa ou projeto? Vamos conversar!</h3>          
-            <a href={CV} download>
-              <button>Baixar CV</button>
-            </a>          
+          <h3>Se interessou pelo meu perfil? Tem uma oportunidade na sua empresa ou projeto? Vamos conversar!</h3>       
+              <button>Baixar CV</button>                    
         </div>
         
       </div>

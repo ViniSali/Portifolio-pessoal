@@ -71,12 +71,8 @@ export const Contact = () => {
                 <a href="https://www.linkedin.com/in/viniciussaliamis/" target="_blank" title="LinkedIn"><img src={navIcon1} alt="LinkedIn" /></a>/viniciussaliamis
                 <br></br>
                 <a href="https://github.com/ViniSali" target="_blank" title="GitHub"><img src={navIcon2} alt="GitHub"/></a>/ViniSali
-                <br></br>
-                <a href="https://www.instagram.com/viniciussali/" target="_blank" title="Instagram"><img src={navIcon3} alt="Instagram" /></a>/viniciussali
-                <br></br>
-                <a href="mailto:vinisali@hotmail.com" target="_blank" title="E-mail"><img src={navIcon4} alt="E-mail" /></a>vinisali@hotmail.com
-                <br></br>
-                <a href="https://wa.me/5521999258326" target="_blank" title="Telephone"><img src={navIcon5} alt="Telephone" /></a>+55 21 999258326                              
+                <br></br>                
+                <a href="mailto:vinisali@hotmail.com" target="_blank" title="E-mail"><img src={navIcon4} alt="E-mail" /></a>vinisali@hotmail.com                                             
               </div>
               </div>}
             </TrackVisibility>
