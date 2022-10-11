@@ -276,6 +276,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   align-items: center;
   text-decoration: none;
 }
+.banner a:hover{
+  color: rgba(255, 255, 255, 0.623);
+}
 .banner a svg {
   font-size: 25px;
   margin-left: 10px;
@@ -613,8 +616,18 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 0 15px;
 }
 .new-email-bx a{
+  text-align: center;
+  text-decoration: none;
   width: 30%;
+  background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
   padding: 20px 5px;
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  border-radius: 18px;
+}
+.new-email-bx a:hover{
+  color: rgb(194, 194, 194);
 }
 .new-email-bx button{
   width: 30%;

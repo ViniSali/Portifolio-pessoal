@@ -18,7 +18,7 @@ export const Projects = () => {
     },
     {
       title: "Living America",
-      description: "Site para reservas de casas e hotéis, layout feito através do site Wix.com. Será recriado usando React. <EM DESENVOLVIMENTO>",
+      description: "Site para reservas de casas e hotéis, layout feito através do site Wix.com. Será recriado usando Angular. <EM DESENVOLVIMENTO>",
       imgUrl: projImg1,
       link: 'https://vinisali.wixsite.com/livingamerica',
     },

@@ -55,11 +55,7 @@ export const Skills = () => {
                             <div className="item">
                                 <img src={meter4} alt="Webpack" />
                                 <h5>Webpack</h5>
-                            </div>
-                            <div className="item">
-                                <img src={meter5} alt="Vue.js" />
-                                <h5>Vue.js</h5>
-                            </div>
+                            </div>                      
                             <div className="item">
                                 <img src={meter6} alt="Angular" />
                                 <h5>Angular</h5>
