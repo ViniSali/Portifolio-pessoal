@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Bem-vindo ao meu portfólio</span>
                 <h1>{`Oi! Eu sou Vinicius`} <br></br><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Desenvolvedor Web", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Me chamo Vinicius Saliamis, tenho 28 anos, Moro no Rio de Janeiro, recém graduado em sistemas de informação, trabalho a mais de 6 anos na área de infraestrutura de TI e suporte técnico. Este ano foquei na carreira de desenvolvedor web fazendo cursos na Udemy e YouTube, desenvolvendo projetos com diversas tecnologias, trabalhando principalmente com JavaScript, bootstrap e React.</p>
+                  <p>Me chamo Vinicius Saliamis, tenho 28 anos, Moro no Rio de Janeiro, recém graduado em sistemas de informação, trabalho a mais de 6 anos na área de infraestrutura de TI e suporte técnico. Este ano foquei na carreira de desenvolvedor web fazendo cursos na Udemy e YouTube, desenvolvendo projetos com diversas tecnologias, trabalhando principalmente com JavaScript, Bootstrap e React.</p>
                   <a href="#connect">Vamos conversar? <ArrowRightCircle size={25} /></a>
               </div>}
             </TrackVisibility>
