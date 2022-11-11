@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portifolio-pessoal/static/css/main.7bbdad37.css",
-    "main.js": "/portifolio-pessoal/static/js/main.90cd4f63.js",
+    "main.js": "/portifolio-pessoal/static/js/main.b18b91ea.js",
     "static/js/787.fb771931.chunk.js": "/portifolio-pessoal/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/portifolio-pessoal/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portifolio-pessoal/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -13,7 +13,7 @@
     "static/media/CentraNo2-Medium.ttf": "/portifolio-pessoal/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/portifolio-pessoal/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/portifolio-pessoal/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/CV - Jean Vinicius Saliamis.pdf": "/portifolio-pessoal/static/media/CV - Jean Vinicius Saliamis.b71978eabdc8179e885e.pdf",
+    "static/media/CV - Jean Vinicius Saliamis.pdf": "/portifolio-pessoal/static/media/CV - Jean Vinicius Saliamis.2bc33a793526332ce5f7.pdf",
     "static/media/meter3.svg": "/portifolio-pessoal/static/media/meter3.fab74f6b1386486148d7bd74c085985f.svg",
     "static/media/contact-img.svg": "/portifolio-pessoal/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/project-img2.png": "/portifolio-pessoal/static/media/project-img2.bc150b0a6bd5d49f213b.png",
@@ -35,11 +35,11 @@
     "static/media/arrow1.svg": "/portifolio-pessoal/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/meter5.svg": "/portifolio-pessoal/static/media/meter5.a9ef3938d4960ac238e9c64d78783931.svg",
     "main.7bbdad37.css.map": "/portifolio-pessoal/static/css/main.7bbdad37.css.map",
-    "main.90cd4f63.js.map": "/portifolio-pessoal/static/js/main.90cd4f63.js.map",
+    "main.b18b91ea.js.map": "/portifolio-pessoal/static/js/main.b18b91ea.js.map",
     "787.fb771931.chunk.js.map": "/portifolio-pessoal/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bbdad37.css",
-    "static/js/main.90cd4f63.js"
+    "static/js/main.b18b91ea.js"
   ]
 }
