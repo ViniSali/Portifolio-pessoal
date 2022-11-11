@@ -1,5 +1,5 @@
 # Personal Portfolio Website in React
-[https://vinisali.github.io/portifolio-pessoal/](https://vinisali.github.io/portifolio-pessoal/)
+[https://vinisali.github.io/portfolio-pessoal/](https://vinisali.github.io/portifolio-pessoal/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
