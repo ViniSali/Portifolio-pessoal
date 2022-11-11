@@ -30,7 +30,6 @@ export const Newsletter = ({ status, message, onValidated }) => {
           <h3>Se interessou pelo meu perfil? Tem uma oportunidade na sua empresa ou projeto? Vamos conversar!</h3>       
               <a href={CV} target="_blank">Baixar CV</a>                   
         </div>
-        
       </div>
     </Col>
   )
